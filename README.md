@@ -1,5 +1,5 @@
 # style-transfer
-Updating my github profile photo
+Updating my github profile photo with artwork from the album "Nuestra Noche" by "Mi Amigo Invencible"
 
 ## References
 <a id="1">[1]</a> 
